@@ -1,0 +1,40 @@
+Input, Output, dan Komentar
+Fungsi print(): Digunakan untuk menampilkan output. Video ini menjelaskan cara mencetak string, angka, hingga penggunaan string formatting (menggunakan operator %s, %d, %f) untuk menyisipkan variabel ke dalam teks agar lebih rapi
+
+Fungsi input(): Digunakan untuk menerima masukan dari pengguna. Perlu diingat bahwa hasil dari input() selalu bertipe data string, sehingga perlu dikonversi jika ingin digunakan dalam perhitungan matematika
+
+Komentar: Menggunakan tanda pagar # untuk satu baris atau tanda kutip tiga (''' atau """) untuk komentar banyak baris. Komentar tidak akan dieksekusi oleh program 
+
+Variabel dan Tipe Data
+Dynamic Typing: Python adalah bahasa yang dinamis, artinya tipe data sebuah variabel akan mengikuti nilai yang dimasukkan ke dalamnya dan bisa berubah-ubah 
+
+Aturan Penamaan: Nama variabel tidak boleh diawali dengan angka atau karakter spesial (kecuali underscore _) 
+
+Tipe Data: Membahas tipe data dasar seperti Integer (bilangan bulat), Float (desimal), String (teks), dan Boolean True/False
+
+Casting (Konversi Tipe Data)
+Dijelaskan cara mengubah satu tipe data ke tipe data lainnya menggunakan fungsi bawaan seperti:
+
+int(): Mengubah menjadi bilangan bulat.
+
+float(): Mengubah menjadi bilangan desimal.
+
+str(): Mengubah menjadi teks
+Operator dalam Python
+Video ini mengupas tuntas berbagai jenis operator:
+
+Aritmatika: Penjumlahan (+), pengurangan (-), perkalian (*), pembagian (/), sisa bagi (%), dan perpangkatan (**) 
+
+Penugasan (Assignment): Seperti +=, -=, *=, yang digunakan untuk memperbarui nilai variabel dengan cara yang lebih singkat
+
+Pembanding: Digunakan untuk membandingkan dua nilai, seperti ==, !=, >, <, yang menghasilkan nilai Boolean 
+
+Logika: Menggunakan kata kunci and, or, dan not 
+
+Identitas & Membership: Menggunakan is untuk mengecek identitas objek dan in untuk mengecek apakah suatu nilai ada di dalam sebuah koleksi (seperti list atau string)
+Modul dan Dokumentasi
+Import: Cara mengambil fungsi dari modul/library lain (misalnya modul math atau time) menggunakan perintah import atau from ... import ... 
+
+Help & Dir: Menggunakan fungsi dir() untuk melihat daftar fungsi dalam sebuah modul dan help() untuk membaca dokumentasi singkat cara penggunaan fungsi tersebut langsung dari terminal
+
+https://youtu.be/v-mfGp1tbgI?si=yazk5lLZSvmR7ET-
